@@ -49,9 +49,9 @@ python ./src/train_cnn.py --s --K --lr --epoch
 C4.5 is implemented by weka.
 
 ```
-```'species'``` variable in ```'main'``` denotes for species. dm represents for drosophila melanogaster. mouse represents for mouse
-```'ks'``` list in ```'main'``` denotes for the k-mer embeddings used for assemblying feature vector
-```'C'``` list in ```'main'``` denotes for the confidence threshold for pruning
+'species' variable in 'main' denotes for species. dm represents for drosophila melanogaster. mouse represents for mouse
+'ks' list in 'main' denotes for the k-mer embeddings used for assemblying feature vector
+'C' list in 'main' denotes for the confidence threshold for pruning
 ```
 
   # Citation
