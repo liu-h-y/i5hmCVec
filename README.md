@@ -59,5 +59,5 @@ python ./src/train_cnn.py --s --K --lr --epoch
   C: the confidence threshold for pruning
   ```
 
-  
-
+  # Citation
+**Hang-Yu Liu**, Pu-Feng Du*, i5hmCVec: Identifying 5-Hydroxymethylcytosine sites of Drosophila RNA using sequence feature embeddings. __Frontiers in Genetics__ (2022) (Submitted)
