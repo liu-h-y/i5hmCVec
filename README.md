@@ -46,18 +46,18 @@ python ./src/train_cnn.py --s --K --lr --epoch
 
 - Generate the performace on the C4.5
 
-  C4.5 is implemented by weka.
+C4.5 is implemented by weka.
 
-  ```
-  javac weka_c45/java/train_c45.java
-  java weka_c45/java/train_c45 s,k1, k2, ...,kn, C
-  ```
+```
+javac weka_c45/java/train_c45.java
+java weka_c45/java/train_c45 s,k1, k2, ...,kn, C
+```
 
-  ```
-  s: species used for generating feature. dm represents for drosophila melanogaster. mouse represents for mouse
-  ki: the k-mer embeddings used for assemblying feature vector
-  C: the confidence threshold for pruning
-  ```
+```
+s: species used for generating feature. dm represents for drosophila melanogaster. mouse represents for mouse
+ki: the k-mer embeddings used for assemblying feature vector
+C: the confidence threshold for pruning
+```
 
   # Citation
 **Hang-Yu Liu**, Pu-Feng Du*, i5hmCVec: Identifying 5-Hydroxymethylcytosine sites of Drosophila RNA using sequence feature embeddings. __Frontiers in Genetics__ (2022) (Submitted)
