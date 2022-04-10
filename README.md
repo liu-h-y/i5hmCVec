@@ -56,4 +56,4 @@ train_c45.java is used for train c4.5.
 ```
 
   # Citation
-**Hang-Yu Liu**, Pu-Feng Du*, i5hmCVec: Identifying 5-Hydroxymethylcytosine sites of *Drosophila* RNA using sequence feature embeddings. _Frontiers in Genetics_ (2022) (Submitted)
+**Hang-Yu Liu**, Pu-Feng Du*, i5hmCVec: Identifying 5-Hydroxymethylcytosine sites of *Drosophila* RNA using sequence feature embeddings. _Frontiers in Genetics_ (2022) (Accepted)
