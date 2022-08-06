@@ -31,10 +31,10 @@ python ./src/train_svm.py --s --K --c --g
 --g: the parameter in the RBF kernel function
 ```
 
-+ Generate the performace on the CNN
++ Generate the performace on the MLP
 
 ```
-python ./src/train_cnn.py --s --K --lr --epoch 
+python ./src/train_mlp.py --s --K --lr --epoch 
 ```
 
 ```
